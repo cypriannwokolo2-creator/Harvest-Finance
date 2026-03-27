@@ -16,3 +16,4 @@ export { Deposit, DepositStatus } from './deposit.entity';
 
 export { Achievement, AchievementType } from './achievement.entity';
 export { Reward, RewardStatus } from './reward.entity';
+export { Notification, NotificationType } from './notification.entity';
